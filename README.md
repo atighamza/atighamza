@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Atig</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atighamza&label=Profile%20views&color=0e75b6&style=flat" alt="atighamza" /> </p>
 
 - 🔭 I’m currently working on **guidance web app**
 
