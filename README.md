@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Atig</h1>
 <h3 align="center">A Software Engineer Student</h3>
-<h4 align="left">I am a Full Stack Developer!</h4>
+<h4 align="left"><img src="	https://raw.githubusercontent.com/github/explore/8…/topics/visual-studio-code/visual-studio-code.png" alt="postman" width="40" height="40"/>I am a Full Stack Developer!</h4>
 
 - 🔭 I’m currently working on **guidance web app**
 
