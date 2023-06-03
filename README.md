@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Atig</h1>
 <h3 align="center">A Software Engineer Student</h3>
+<p align="left">I am a Full Stack Developer!</p>
 
 - 🔭 I’m currently working on **guidance web app**
 
