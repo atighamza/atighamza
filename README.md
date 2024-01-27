@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **guidance web app**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 📫 How to reach me **hamzaatig2000@gmail.com**
 
